@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b12fd234-8f7d-4acd-abd4-bda6b3fe1301" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional 2/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Additional.iml" afterDir="false" />
+    <list default="true" id="b12fd234-8f7d-4acd-abd4-bda6b3fe1301" name="Changes" comment="Finished Additional 2">
+      <change afterPath="$PROJECT_DIR$/Additional 3/Additional_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 3/Additional_1/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 6/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Additional 2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 2/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -36,14 +41,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +58,20 @@
       <option name="presentableId" value="Default" />
       <updated>1660317832205</updated>
       <workItem from="1660317838523" duration="9233000" />
+      <workItem from="1660385662074" duration="12129000" />
+      <workItem from="1660468847227" duration="19137000" />
+      <workItem from="1660570338379" duration="4639000" />
+      <workItem from="1660582098561" duration="5797000" />
+      <workItem from="1660660607266" duration="6671000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished Additional 2">
+      <created>1660386176691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660386176691</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished Additional 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Additional 2" />
   </component>
 </project>

@@ -170,3 +170,5 @@ switch (gameNumber) {
         console.log('Number is incorrect');
 }
 
+
+
