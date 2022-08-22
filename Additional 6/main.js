@@ -2,14 +2,15 @@
 // document.writeln(cutString('наслаждение',3)) // [нас,лаж,ден,ие]
 
 let cutString = (str, n) => {
-
-
-
-
+    let newArr = [];
+    let v = str.split('');
+    while (v.length) {
+        newArr.push(v.splice(0, n).join(''));
+    }
+    console.log(newArr);
 };
 
-console.log(cutString('enjoyable', 3));
-
+cutString('enjoyable', 3);
 
 // - Напишіть функцію delete_characters(str, length), яка повертає підрядок, що складається із зазначеної кількості символів.
 //     let str = 'Каждый охотник желает знать';
@@ -106,17 +107,10 @@ console.log('-----------');
 // - Напишіть функцію capitalize(str), яка повертає рядок, у якому кожне слово починається з великої літери.
 
 let capitalize = (str) => {
-    let array = str.split(' ');
-    let res = '';
-    for (let i = 0; i < array.length; i++) {
-        let letter = array[i][0].toUpperCase();
-        array[i][0].replace(array[i][0], letter);
-        res += array[i] + ' ';
-    }
-    return res;
+    return str.split(' ').map(value => `${value[0].toUpperCase()}${value.slice(1)}`).join(' ');
 };
 
-console.log(capitalize('hello my name is'));
+console.log(capitalize('hello my name is...'));
 
 
 // - Створити функцію-валідатор для адрес електронної пошти. Перевірка повинна включати в себе :данні до знака равлика(@), наявність равлика, крапку яка знаходиться не меньше ніж на 2 символ далі після равлика, функція не чутлива до регістру (some@email.com,SOME@EMAIL.COM,some@EMAIL.com, і тд - однакові значення)

@@ -1,0 +1,16 @@
+#wrap{
+    width: 600px;
+    padding: 10px;
+    background: lightskyblue;
+    border: 3px solid darkblue;
+}
+.rules{
+    background: cornflowerblue;
+    border: 2px solid darkblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    margin: 5px;
+}
