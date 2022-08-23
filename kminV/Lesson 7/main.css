@@ -1,0 +1,74 @@
+.button {
+    width: 100px;
+    height: 20px;
+}
+
+.text {
+    display: none;
+}
+
+.menu {
+    width: 400px;
+    height: 20px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background: lightgreen;
+    border: 2px solid darkgreen;
+    margin: 10px;
+    transition: 500ms;
+    padding: 10px;
+}
+
+.fa-arrow-down {
+    color: darkgreen;
+    font-size: 25px;
+}
+
+.menuText {
+    text-align: center;
+}
+
+.showingText {
+    height: 200px;
+}
+
+.commentsDiv{
+    width: 1000px;
+    background: lightcyan;
+    border: 5px solid darkslateblue;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.commentDiv {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background: cornflowerblue;
+    border: 2px solid darkblue;
+    height: 55px;
+    overflow: hidden;
+    padding: 10px;
+    transition: 500ms;
+}
+h3{
+    margin: 5px;
+}
+.showComment {
+    height: 150px;
+}
+
+
+
+
+
+
+
+
