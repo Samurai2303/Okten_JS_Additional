@@ -1,0 +1,31 @@
+.popupDiv {
+    width: 200px;
+    height: 100px;
+    background: cornflowerblue;
+    border-radius: 5px;
+    border: 3px solid darkblue;
+    padding: 10px;
+    position: fixed;
+    top: 100px;
+    right: 100px;
+    color: black;
+}
+
+.popup{
+    width: 500px;
+    flex-wrap: wrap;
+    border: 2px solid darkblue;
+    background: lightskyblue;
+    position: fixed;
+    right: 100px;
+    top: 100px;
+    display: none;
+    height: 800px;
+
+}
+
+#iddiv2{
+    width: 500px;
+    height: 500px;
+    background: lightskyblue;
+}

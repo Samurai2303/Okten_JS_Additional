@@ -208,7 +208,7 @@ let coursesArray = [
 
 // відсортувати його в спадаючому порядку за кількістю елементів в полі modules
 
-console.log(coursesArray.sort((a, b) => b["modules"].length - a['modules'].length));
+console.log(coursesArray.sort((a, b) => b["modules"].length - a["modules"].length));
 
 console.log('-----------');
 

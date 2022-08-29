@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b12fd234-8f7d-4acd-abd4-bda6b3fe1301" name="Changes" comment="need to finish additional 9 super and kminV lesson 7">
-      <change afterPath="$PROJECT_DIR$/Additional 9 super/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional 9 super/rules.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kminV/Lesson 7/main.css" afterDir="false" />
+    <list default="true" id="b12fd234-8f7d-4acd-abd4-bda6b3fe1301" name="Changes" comment="need to finish kminV lesson 7 and 8">
+      <change afterPath="$PROJECT_DIR$/Additional 10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 10/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 10/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 11/favorites.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 11/favorites.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 11/favorites.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 11/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional 11/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kminV/Lesson 8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kminV/Lesson 8/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kminV/Lesson 8/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Additional 9 super/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 9 super/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Additional 9 super/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 9 super/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Additional 4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 4/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Additional 6/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 6/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Additional 8/rules.html" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 8/rules.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Additional 9 super/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 9 super/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Additional 9/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 9/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kminV/Lesson 7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kminV/Lesson 7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kminV/Lesson 7/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/kminV/Lesson 7/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kminV/Lesson 7/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/kminV/Lesson 7/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +78,13 @@
       <workItem from="1660894002783" duration="20413000" />
       <workItem from="1660980912459" duration="755000" />
       <workItem from="1661160956568" duration="27894000" />
-      <workItem from="1661241255859" duration="9121000" />
+      <workItem from="1661241255859" duration="16236000" />
+      <workItem from="1661356571653" duration="126000" />
+      <workItem from="1661450364412" duration="92000" />
+      <workItem from="1661505407498" duration="21099000" />
+      <workItem from="1661594346678" duration="12263000" />
+      <workItem from="1661687335145" duration="10951000" />
+      <workItem from="1661779334090" duration="13675000" />
     </task>
     <task id="LOCAL-00001" summary="Finished Additional 2">
       <created>1660386176691</created>
@@ -88,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661204619809</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="need to finish kminV lesson 7 and 8">
+      <created>1661252011428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661252011428</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +135,7 @@
     <MESSAGE value="Finished Additional 2" />
     <MESSAGE value="need to finish additional 6 and 3" />
     <MESSAGE value="need to finish additional 9 super and kminV lesson 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="need to finish additional 9 super and kminV lesson 7" />
+    <MESSAGE value="need to finish kminV lesson 7 and 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="need to finish kminV lesson 7 and 8" />
   </component>
 </project>

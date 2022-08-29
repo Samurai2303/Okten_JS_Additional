@@ -54,9 +54,7 @@
     function explorer(htmlElement) {
         if (htmlElement.classList.length) {
             for (let item of htmlElement.classList) {
-                if (!arrayOfClasses.includes(item)) {
                     arrayOfClasses.push(item);
-                }
             }
         }
         if (htmlElement.children) {

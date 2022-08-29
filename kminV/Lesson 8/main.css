@@ -1,0 +1,154 @@
+.textArea1 {
+    background: lightskyblue;
+    border-radius: 5px;
+    border: 2px solid darkblue;
+}
+
+label {
+    display: block;
+    margin: 5px;
+}
+
+textarea {
+    display: block;
+}
+
+.form1 {
+    width: 400px;
+    height: 550px;
+    border-radius: 10px;
+    border: 3px solid darkblue;
+    background: lightskyblue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.textInput, select {
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    background: cornflowerblue;
+}
+
+option {
+    border: 1px solid darkblue;
+    background: #b4deff;
+}
+
+.comment {
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    background: cornflowerblue;
+}
+
+.wrapDiv {
+    width: 300px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.arrowsDiv {
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid darkblue;
+    background: lightskyblue;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.fa-solid {
+    border-radius: 50%;
+    padding: 3px;
+    background: darkblue;
+    color: lightskyblue;
+    font-size: 20px;
+    transition: 200ms;
+}
+
+.fa-solid:hover {
+    font-size: 25px;
+}
+
+.textAreaWithButton {
+    background: lightskyblue;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.saveButton {
+    background: lightskyblue;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    width: 70px;
+    height: 25px;
+    color: darkblue;
+    transition: 200ms;
+}
+
+.saveButton:hover {
+    width: 80px;
+    height: 30px;
+    border: 3px solid lightskyblue;
+    background: darkblue;
+    color: lightskyblue;
+}
+.recordBook{
+    width: 700px;
+    background: lightskyblue;
+    border: 3px solid darkblue;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+}
+.recordBookName{
+    width: 150px;
+    height: 28px;
+    background: cornflowerblue;
+    border-radius: 5px;
+    border: 2px solid darkblue;
+    color: darkblue;
+    font-size: 25px;
+    text-align: center;
+}
+.newContact{
+    width: 250px;
+    height: 25px;
+    background: cornflowerblue;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    color: darkblue;
+    font-size: 18px;
+    transition: 200ms;
+}
+.contactsDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.newContact:hover{
+    width: 260px;
+    height: 30px;
+    border: 3px solid #9fddff;
+    background: darkblue;
+    color: #9fddff;
+}
+.newContactForm{
+    width: 400px;
+    height: 300px;
+    background: lightskyblue;
+    border-radius: 5px;
+    border: 2px solid darkblue;
+    padding: 10px;
+}
+
+
+

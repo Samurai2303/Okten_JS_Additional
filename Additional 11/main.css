@@ -1,0 +1,13 @@
+.nextPage {
+    width: 110px;
+    height: 40px;
+    border: 2px solid darkblue;
+    border-radius: 10px;
+    background: cornflowerblue;
+    margin: 10px;
+    transition: 100ms;
+}
+.nextPage:hover{
+    width: 120px;
+    height: 45px;
+}

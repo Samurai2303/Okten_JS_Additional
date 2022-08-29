@@ -84,18 +84,16 @@ console.log('-------------');
 
 function foo(...c) {
     let max = c[0];
+    let min = c[0];
     for (let i = 0; i < c.length; i++) {
         if (max < c[i]) {
             max = c[i];
         }
-    }
-    console.log(max);
-    let min = c[0];
-    for (let i = 0; i < c.length; i++) {
         if (min > c[i]) {
             min = c[i];
         }
     }
+    console.log(max);
     return min;
 }
 
@@ -145,20 +143,21 @@ console.log('-------------');
 
 // - Функція приймає масив та робить з нього новий масив в зворотньому порядку. [1,2,3] -> [3, 2, 1].
 
-function reverse(array) {
-    return array.reverse();
-}
+let reverse1 = (array) => {
+    let rev = [];
+    let indexRev = 0;
+    for (let j = array.length - 1; j >= 0; j--) {
+        rev[indexRev++] = array[j];
+    }
+    return rev;
+};
+console.log(reverse1([1, 2, 3, 4, 5]));
 
-console.log(reverse(array));
-
-// let reverse1 = (array) => {
-//     let rev = [];
-//     while (array.length) {
-//         rev.push(array.pop());
-//     }
-//     return rev;
-// };
-// console.log(reverse1([1, 2, 3, 4, 5]));
+// function reverse(array) {
+//     return array.reverse();
+// }
+//
+// console.log(reverse(array));
 
 console.log('-------------');
 
@@ -199,7 +198,7 @@ function sum(array1, array2) {
         } else if (typeof array2[i] === "number") {
             newArray[i] = array2[i];
         } else {
-            console.log('Try Again');
+            console.log("Try Again");
         }
     }
     return newArray;

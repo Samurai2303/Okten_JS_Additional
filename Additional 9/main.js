@@ -350,7 +350,7 @@ function explorer(htmlElement) {
     if (htmlElement.tagName === 'P') {
         headingsAndParagraphs["paragraphs"].push(htmlElement.innerText);
     }
-    if (htmlElement.tagName === 'H2'||htmlElement.tagName === 'H3') {
+    if (htmlElement.tagName === 'H2' || htmlElement.tagName === 'H3') {
         headingsAndParagraphs["headings"].push(htmlElement.innerText);
     }
     if (htmlElement.children.length) {
@@ -368,6 +368,24 @@ console.log(headingsAndParagraphs);
 //     зробити div contenteditable ввести будь яке ціле слово. та при натисканні табуляції перетворити його на подвійний тег
 // asd ->tab-> <asd></asd>
 
-//Як отаке зробити?????
-//У мене є припущення, що через івенти, можливо через keydown, але цей івент працює, коли натиснута будь-яка клавіша...
-//
+let box = document.createElement('div');
+box.style.background = 'lightgreen';
+box.classList.add('box');
+box.innerText = 'jhjhjhj';
+document.body.appendChild(box);
+
+let inputForTag = document.createElement('input');
+inputForTag.setAttribute('type', 'text');
+inputForTag.classList.add('inputForTag');
+document.body.appendChild(inputForTag);
+
+inputForTag.onkeydown = function (e) {
+    if (e.key === 'Tab') {
+        box.innerText = `<${inputForTag.value}></${inputForTag.value}>`;
+    }
+};
+
+//Може і тупо, але чому у мене не працює стиль до класу box (373 строка)?
+//Усе підключено як треба, усі стилі з css файлу працюють, окрім цього
+
+

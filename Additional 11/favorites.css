@@ -1,0 +1,18 @@
+.favoritesUsers{
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 10px;
+    background: lightskyblue;
+    border-radius: 10px;
+    border: 3px solid darkblue;
+}
+.userDiv {
+    width: 150px;
+    height: 50px;
+    background: cornflowerblue;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    padding: 10px;
+}
