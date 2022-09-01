@@ -1,28 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b12fd234-8f7d-4acd-abd4-bda6b3fe1301" name="Changes" comment="need to finish kminV lesson 7 and 8">
-      <change afterPath="$PROJECT_DIR$/Additional 10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional 10/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional 10/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional 11/favorites.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional 11/favorites.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional 11/favorites.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional 11/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional 11/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional 11/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kminV/Lesson 8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kminV/Lesson 8/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kminV/Lesson 8/main.js" afterDir="false" />
+    <list default="true" id="b12fd234-8f7d-4acd-abd4-bda6b3fe1301" name="Changes" comment="need to finish additional 10 and kminV lesson 8">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Additional 4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 4/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Additional 6/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 6/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Additional 8/rules.html" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 8/rules.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Additional 9 super/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 9 super/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Additional 9/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 9/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Additional 9/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 9/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kminV/Lesson 7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kminV/Lesson 7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kminV/Lesson 7/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/kminV/Lesson 7/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kminV/Lesson 7/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/kminV/Lesson 7/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kminV/Lesson 8/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/kminV/Lesson 8/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kminV/Lesson 8/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/kminV/Lesson 8/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +41,13 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,7 +75,10 @@
       <workItem from="1661505407498" duration="21099000" />
       <workItem from="1661594346678" duration="12263000" />
       <workItem from="1661687335145" duration="10951000" />
-      <workItem from="1661779334090" duration="13675000" />
+      <workItem from="1661779334090" duration="17703000" />
+      <workItem from="1661863738331" duration="9316000" />
+      <workItem from="1661960903789" duration="13087000" />
+      <workItem from="1662035193699" duration="2883000" />
     </task>
     <task id="LOCAL-00001" summary="Finished Additional 2">
       <created>1660386176691</created>
@@ -114,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661252011428</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="need to finish additional 10 and kminV lesson 8">
+      <created>1661795966309</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661795966309</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +137,7 @@
     <MESSAGE value="need to finish additional 6 and 3" />
     <MESSAGE value="need to finish additional 9 super and kminV lesson 7" />
     <MESSAGE value="need to finish kminV lesson 7 and 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="need to finish kminV lesson 7 and 8" />
+    <MESSAGE value="need to finish additional 10 and kminV lesson 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="need to finish additional 10 and kminV lesson 8" />
   </component>
 </project>

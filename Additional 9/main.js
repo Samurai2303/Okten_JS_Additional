@@ -369,9 +369,7 @@ console.log(headingsAndParagraphs);
 // asd ->tab-> <asd></asd>
 
 let box = document.createElement('div');
-box.style.background = 'lightgreen';
 box.classList.add('box');
-box.innerText = 'jhjhjhj';
 document.body.appendChild(box);
 
 let inputForTag = document.createElement('input');
@@ -385,7 +383,5 @@ inputForTag.onkeydown = function (e) {
     }
 };
 
-//Може і тупо, але чому у мене не працює стиль до класу box (373 строка)?
-//Усе підключено як треба, усі стилі з css файлу працюють, окрім цього
 
 

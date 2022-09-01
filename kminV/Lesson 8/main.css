@@ -98,8 +98,9 @@ option {
     background: darkblue;
     color: lightskyblue;
 }
-.recordBook{
-    width: 700px;
+
+.recordBook {
+    width: 1000px;
     background: lightskyblue;
     border: 3px solid darkblue;
     border-radius: 10px;
@@ -109,7 +110,8 @@ option {
     padding: 10px;
     margin: 10px;
 }
-.recordBookName{
+
+.recordBookName {
     width: 150px;
     height: 28px;
     background: cornflowerblue;
@@ -119,7 +121,8 @@ option {
     font-size: 25px;
     text-align: center;
 }
-.newContact{
+
+.newContact {
     width: 250px;
     height: 25px;
     background: cornflowerblue;
@@ -129,26 +132,110 @@ option {
     font-size: 18px;
     transition: 200ms;
 }
-.contactsDiv{
+
+.contactsDiv {
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 10px;
 }
-.newContact:hover{
+
+.newContact:hover {
     width: 260px;
     height: 30px;
     border: 3px solid #9fddff;
     background: darkblue;
     color: #9fddff;
 }
-.newContactForm{
-    width: 400px;
-    height: 300px;
+
+.newContactForm {
+    width: 430px;
+    height: 180px;
     background: lightskyblue;
     border-radius: 5px;
     border: 2px solid darkblue;
     padding: 10px;
 }
+
+.inputNewContact {
+    border: 1px solid darkblue;
+    background: cornflowerblue;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+.pNewContact {
+    display: inline;
+}
+
+.formDiv {
+    margin: 5px;
+}
+
+.createButtonDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.createButton {
+    width: 200px;
+    height: 30px;
+    background: cornflowerblue;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    transition: 200ms;
+    color: darkblue;
+    font-size: 20px;
+}
+
+.createButton:hover {
+    width: 210px;
+    height: 35px;
+    background: darkblue;
+    border: 3px solid #9fddff;
+    color: #9fddff;
+}
+.createdContact{
+    width: 450px;
+    height: 180px;
+    background: cornflowerblue;
+    border-radius: 5px;
+    border: 2px solid darkblue;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.twoButtonsWrap{
+    display: flex;
+    justify-content: space-evenly;
+}
+.createdContactButton{
+    width: 150px;
+    height: 30px;
+    background: cornflowerblue;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    transition: 200ms;
+    color: darkblue;
+    font-size: 18px;
+}
+.createdContactButton:hover{
+    width: 160px;
+    height: 35px;
+    background: darkblue;
+    border: 3px solid #9fddff;
+    color: #9fddff;
+}
+.editDiv{
+
+}
+
+
+
+
+
+
 
 
 
