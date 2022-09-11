@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b12fd234-8f7d-4acd-abd4-bda6b3fe1301" name="Changes" comment="need to finish additional 10 and kminV lesson 8">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="b12fd234-8f7d-4acd-abd4-bda6b3fe1301" name="Changes" comment="need to finish additional 10">
+      <change afterPath="$PROJECT_DIR$/Event loop/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Event loop/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Additional 9/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 9/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Additional 9/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Additional 9/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kminV/Lesson 8/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/kminV/Lesson 8/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kminV/Lesson 8/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/kminV/Lesson 8/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +39,13 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+      &quot;mysql&quot;,
+      &quot;mongo&quot;
     ]
   }
 }</component>
@@ -78,7 +77,15 @@
       <workItem from="1661779334090" duration="17703000" />
       <workItem from="1661863738331" duration="9316000" />
       <workItem from="1661960903789" duration="13087000" />
-      <workItem from="1662035193699" duration="2883000" />
+      <workItem from="1662035193699" duration="3613000" />
+      <workItem from="1662115211372" duration="14697000" />
+      <workItem from="1662289903444" duration="11004000" />
+      <workItem from="1662540210097" duration="3684000" />
+      <workItem from="1662546745864" duration="4814000" />
+      <workItem from="1662640310987" duration="10236000" />
+      <workItem from="1662709065821" duration="10327000" />
+      <workItem from="1662822276816" duration="6018000" />
+      <workItem from="1662896577362" duration="2589000" />
     </task>
     <task id="LOCAL-00001" summary="Finished Additional 2">
       <created>1660386176691</created>
@@ -115,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661795966309</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="need to finish additional 10">
+      <created>1662039599195</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662039599195</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +152,7 @@
     <MESSAGE value="need to finish additional 9 super and kminV lesson 7" />
     <MESSAGE value="need to finish kminV lesson 7 and 8" />
     <MESSAGE value="need to finish additional 10 and kminV lesson 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="need to finish additional 10 and kminV lesson 8" />
+    <MESSAGE value="need to finish additional 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="need to finish additional 10" />
   </component>
 </project>
